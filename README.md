@@ -11,6 +11,6 @@
 3. Let's add `lodash` javascript library, using `npm install lodash --save`. The **issue** that we have with `lodash` and most script packages is that they are written in *JavaScript*, but we are using *TypeScript*. Good news is that you can simply makes JavaScript in TypeScript, using `import 'lodash'` with no path. But if they exist, it's better to use Type Definitions for lodash. In that case we will use `npm install --save @types/lodash`.
 
 ### Useful Links & Resources
-More about Augury: https://augury.angular.io/
-More about TypeScript + 3rd Party Libraries: https://www.thepolyglotdeveloper.com/2017/03/javascript-libraries-in-a-typescript-application-revisited/
+- More about Augury: https://augury.angular.io/
+- More about TypeScript + 3rd Party Libraries: https://www.thepolyglotdeveloper.com/2017/03/javascript-libraries-in-a-typescript-application-revisited/
 
